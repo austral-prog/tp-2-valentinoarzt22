@@ -4,7 +4,7 @@ def ada():
     lower_name = first_name.lower() + ' ' + last_name.lower()
     capitalize_name = first_name.capitalize() + ' ' + last_name.capitalize()
     upper_name = first_name.upper() + ' ' + last_name.upper()
-    space_name = ' ' * 4 + first_name.lower() + ' ' + last_name.lower()
+    space_name = '\tada lovelace'
     print(lower_name)
     print(capitalize_name)
     print(upper_name)
